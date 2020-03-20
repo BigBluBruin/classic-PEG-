@@ -45,7 +45,7 @@ struct Argv
   static void PrintUsage()
   {
     cout<<endl;
-    cout<<"*******************************************************************************************"<<endl;
+    cout<<"********************************** *********************************************************"<<endl;
     cout<<" Usage Reminder: MainPEG -numM M -numN N -codeName CodeName -degFileName DegFileName " <<endl;
     cout<<"         option:         -sglConcent SglConcent                                     " <<endl; 
     cout<<"                         sglConcent==0 ----- strictly concentrated parity-check      " <<endl;

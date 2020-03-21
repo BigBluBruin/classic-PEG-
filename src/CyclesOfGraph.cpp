@@ -1,6 +1,6 @@
 #include "CyclesOfGraph.h"
 #include "Utility.h"
-
+#include <cstring>
 #include <cstdlib>
 #include <iostream>
 #include <valarray>

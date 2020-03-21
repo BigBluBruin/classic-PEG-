@@ -45,7 +45,7 @@ struct Argv
   static void PrintUsage()
   {
     cout<<endl;
-    cout<<"********************************** *********************************************************"<<endl;
+    cout<<"*******************************************************************************************"<<endl;
     cout<<" Usage Reminder: MainPEG -numM M -numN N -codeName CodeName -degFileName DegFileName " <<endl;
     cout<<"         option:         -sglConcent SglConcent                                     " <<endl; 
     cout<<"                         sglConcent==0 ----- strictly concentrated parity-check      " <<endl;
@@ -134,7 +134,7 @@ try
   int sglConcent=1;  // default to non-strictly concentrated parity-check distribution
   int quickEnc = 0; //default to non-quick encoding form
   int checkDegProvided = 0; //default to no
-  int verbose = 0; // default to silent
+  int verbose = 1; // default to silent
   int targetGirth = 100000; // default to greedy PEG version 
   std::string codeName; 
   std::string degFileName;

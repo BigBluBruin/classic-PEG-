@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3  -rdynamic CMakeFiles/runner.dir/src/BigGirth.cpp.o CMakeFiles/runner.dir/src/CyclesOfGraph.cpp.o CMakeFiles/runner.dir/src/Random.cpp.o CMakeFiles/runner.dir/src/main.cpp.o  -o runner 

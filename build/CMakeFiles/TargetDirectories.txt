@@ -1,0 +1,3 @@
+/mnt/e/Gitrepo/classic-PEG-/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/Gitrepo/classic-PEG-/build/CMakeFiles/runner.dir
+/mnt/e/Gitrepo/classic-PEG-/build/CMakeFiles/edit_cache.dir
